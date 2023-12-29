@@ -2,7 +2,7 @@
 
 <h2>🤖 Machine Learning & 📈 Data Analytics Using R & Python:</h2>
 
-- <b>Using Logistic Regression to Predict LinkedIn Users (Python & R)</b>
+- <b>Using Logistic Regression to Predict LinkedIn Users (Python)</b>
   - [See Repository Work Here](https://github.com/justinbrooks2552/linkedinapp)   
 - <b>Using Random Forest to Predict Mobile Phone Customer Churn (Python)</b>
   - [See Repository Work Here](https://github.com/justinbrooks2552/telecom)
