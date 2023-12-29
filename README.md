@@ -4,12 +4,17 @@
 
 - <b>Using Logistic Regression to Predict LinkedIn Users (Python & R)</b>
   - [See Repository Work Here](https://github.com/justinbrooks2552/linkedinapp)   
+- <b>Using Random Forest to Predict Mobile Phone Customer Churn (Python)</b>
+  - [See Repository Work Here](https://github.com/justinbrooks2552/telecom)
  
 <h2>📲 Apps I've Built:</h2>
 
 - <b>LinkedIn Prediction App w/ Streamlit.io</b>   
   - Using Logistic Regression to Predict LinkedIn Users [LinkedIn Predictor App](https://linkedinpredictor.streamlit.app/)    
     - See Repository Work Here [GitHub Repository](https://github.com/justinbrooks2552/linkedinapp)    
+- <b>Customer Churn Prediction App w/ Streamlit.io</b>   
+  - Using Random Forest to Predict Mobile Phone Customer Churn [Customer Churn Predictor App](https://.streamlit.app/)    
+    - See Repository Work Here [GitHub Repository](https://github.com/justinbrooks2552/telecom)
 
 <h2>👨‍💻 Programming Languages:</h2>
 
