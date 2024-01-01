@@ -8,7 +8,7 @@
   - [See R Markdown Outputs Here](https://github.com/justinbrooks2552/linkedinapp/blob/main/LinkedInDataAnalysisRMarkdownOutputs.pdf)   
 - <b>Using Random Forest to Predict Telecom Customer Churn (Python)</b>
   - [See Python Code Here](https://github.com/justinbrooks2552/telecom/blob/main/tpa.py)
-  - [See Python Markdown Here](https://github.com/justinbrooks2552/telecom/blob/main/TelecomCustomerChurnPredictor.pdf)
+  - [See Python Markdown Outputs Here](https://github.com/justinbrooks2552/telecom/blob/main/TelecomCustomerChurnPredictor.pdf)
  
 <h2>📲 Apps I've Built:</h2>
 
