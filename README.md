@@ -2,10 +2,13 @@
 
 <h2>🤖 Machine Learning & 📈 Data Analytics Using R & Python:</h2>
 
-- <b>Using Logistic Regression to Predict LinkedIn Users (Python)</b>
-  - [See Repository Work Here](https://github.com/justinbrooks2552/linkedinapp)   
-- <b>Using Random Forest to Predict Telecom Customer Churn (Python & R)</b>
-  - [See Repository Work Here](https://github.com/justinbrooks2552/telecom)
+- <b>Using Logistic Regression to Predict LinkedIn Users (Python & R)</b>
+  - [See Python Code Here](https://github.com/justinbrooks2552/linkedinapp/blob/main/LinkedInProject.py)
+  - [See R Code Here](https://github.com/justinbrooks2552/linkedinapp/blob/main/LinkedIn%20Data%20Analysis%20R%20Markdown.Rmd)
+  - [See R Markdown Outputs Here](https://github.com/justinbrooks2552/linkedinapp/blob/main/LinkedInDataAnalysisRMarkdownOutputs.pdf)   
+- <b>Using Random Forest to Predict Telecom Customer Churn (Python)</b>
+  - [See Python Code Here](https://github.com/justinbrooks2552/telecom/blob/main/tpa.py)
+  - [See Python Markdown Here](https://github.com/justinbrooks2552/telecom/blob/main/TelecomCustomerChurnPredictor.pdf)
  
 <h2>📲 Apps I've Built:</h2>
 
